@@ -1,5 +1,5 @@
 # data_analysis
-## Проект e-commerce
+## Анализ данных в e-commerce
 
 Стек: Python (Pandas, Numpy, Matplotlib)
 
